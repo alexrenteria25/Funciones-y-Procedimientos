@@ -8,42 +8,42 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-   - `ejercicios/suma_digitos.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 2. **Inverso de un número**
-   - `ejercicios/inverso_numero.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 3. **Potencia mediante sumas sucesivas**
-   - `ejercicios/potencia_sumas.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 4. **Radicación mediante restas sucesivas**
-   - `ejercicios/radicacion_restas.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 5. **Serie de Fibonacci**
-   - `ejercicios/serie_fibonacci.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 6. **Factorial de un número**
-   - `ejercicios/factorial.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 7. **Suma de una serie aritmética**
-   - `ejercicios/suma_aritmetica.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 8. **Producto de una serie geométrica**
-   - `ejercicios/producto_geometrica.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 9. **Número de dígitos de un número**
-   - `ejercicios/numero_digitos.c`
+   - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 10. **Verificar si un número es primo**
-    - `ejercicios/verificar_primo.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 11. **Encontrar el MCD (Máximo Común Divisor)**
-    - `ejercicios/mcd.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 12. **Sumar los números impares hasta n**
-    - `ejercicios/suma_impares.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 13. **Sumar los números pares hasta n**
-    - `ejercicios/suma_pares.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 14. **Suma de los cuadrados de los primeros n números**
-    - `ejercicios/suma_cuadrados.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 15. **Suma de los cubos de los primeros n números**
-    - `ejercicios/suma_cubos.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 16. **Suma de una serie de números fraccionarios**
-    - `ejercicios/suma_fraccionarios.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 17. **Producto de una serie de números fraccionarios**
-    - `ejercicios/producto_fraccionarios.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 18. **Contar los números primos hasta n**
-    - `ejercicios/contar_primos.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 19. **Calcular el n-ésimo número triangular**
-    - `ejercicios/numero_triangular.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
 20. **Calcular la suma de los factoriales de los primeros n números**
-    - `ejercicios/suma_factoriales.c`
+    - `C:\Users\Alexis\Desktop\universidad\Programas c++`
